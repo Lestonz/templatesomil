@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "templatesomil",
+    "slug": "templatesomil",
+    "version": "1.0.0",
+    "sdkVersion": "46.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.anonymous.templatesomil"
+    },
+    "android": {
+      "package": "com.anonymous.templatesomil"
+    }
+  }
+}
